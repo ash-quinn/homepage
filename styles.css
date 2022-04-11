@@ -2095,8 +2095,8 @@ input[type="submit"].btn-block,input[type="reset"].btn-block,input[type="button"
     text-decoration:underline
 }
 .work-together{
-    background:-webkit-linear-gradient(rgba(52,73,94,0.8), rgba(52,73,94,0.8)), url(http://timothy.expert/codepen-resources/collab.jpg) no-repeat center center fixed;
-    background:linear-gradient(rgba(52,73,94,0.8), rgba(52,73,94,0.8)),url(http://timothy.expert/codepen-resources/collab.jpg) no-repeat center center fixed;
+    background:-webkit-linear-gradient(rgba(52,73,94,0.8), rgba(52,73,94,0.8)) no-repeat center center fixed;
+    background:linear-gradient(rgba(52,73,94,0.8), rgba(52,73,94,0.8)) no-repeat center center fixed;
     height:550px;
     background-size:cover;
     padding-top:50px;
